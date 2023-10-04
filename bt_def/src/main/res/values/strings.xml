@@ -1,0 +1,9 @@
+<resources>
+    <string name="paired_devices">Сопряженные устройства</string>
+    <string name="turn_on_bluetooth">Включить bluetooth</string>
+    <string name="search_devices">Поиск устройств</string>
+    <string name="turn_on_search_bluetooth">Включить bluetooth поиск</string>
+    <string name="empty_devices">Нет сопряжённых устройств</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
